@@ -1,4 +1,4 @@
-# My React App
+# feedback-app
 
 This is a simple React project for feedback and rating functionality.
 
@@ -16,6 +16,15 @@ This is a simple React project for feedback and rating functionality.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+get All the files of this application from public repository (https://github.com/Kishan-Sharma001/Feedbackapp)
+
+Clone the repo:https://github.com/Kishan-Sharma001/Feedbackapp
+
+Navigate to the project folder: cd feedback-app
+
+Install dependencies:
+
+## npm install
 
 ## Available Scripts
 
