@@ -1,6 +1,21 @@
+# My React App
+
+This is a simple React project for feedback and rating functionality.
+
+## Features
+- Provides feedback and rating functionality.
+- User-friendly interface.
+
+## Technologies Used
+- React
+- CSS
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
