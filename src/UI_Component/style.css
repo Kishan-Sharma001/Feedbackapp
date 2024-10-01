@@ -1,0 +1,83 @@
+.feedbackCard{
+    width: 50%;
+}
+
+.rating {
+  background-color: rgb(177, 177, 177);
+}
+
+.rating:hover {
+  background-color: rgb(163, 99, 202);
+}
+
+.rating :active {
+  background-color: orangered;
+}
+
+.custom-btn-1 {
+  background-color: rgb(255, 176, 29);
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 10px 20px;
+  border: none;
+}
+
+.custom-btn-1:hover {
+  /* border: 1px solid blue; */
+  box-shadow: 0.5px 0.5px 4px rgb(171, 169, 169);
+  /* font-size: 1.06rem; */
+}
+
+.custom-btn-2 {
+  background-color: rgb(93, 29, 255);
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 5px 5px;
+  border: none;
+  width: 15%;
+}
+
+.custom-btn-2:hover {
+  /* border: 1px solid blue; */
+  box-shadow: 0.5px 0.5px 4px rgb(171, 169, 169);
+  /* font-size: 1.06rem; */
+}
+
+.responseAlert {
+  position: absolute;
+  top: 6%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(0, 136, 0);
+  color: white;
+  width: 40%;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.feedbacklist {
+  margin-left: -30px;
+  height: 75%;
+}
+
+.feedbackListCard {
+  height: 60%;
+}
+
+
+@media only screen and (max-width:720px ){
+    .feedbackCard{
+        width: 100%;
+    }
+    
+}
+
+@media only screen and (min-width:720px){
+    .feedbackCard{
+        width: 50%;
+    }
+    
+}
